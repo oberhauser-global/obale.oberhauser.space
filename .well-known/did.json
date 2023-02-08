@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:obale.oberhauser.space",
+  "verificationMethod": [
+    {
+      "id": "did:web:obale.oberhauser.space#owner",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:obale.oberhauser.space",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "secp256k1",
+        "x": "Aj7qxL2kynxsO0183hWZJ+hNee7CXACA4lfY8dFrujU=",
+        "y": "sa2yKARQF79FrEdETSHUxGfm7UUS4bHGRkRnq3zVIRk="
+      }
+    }
+  ],
+  "authentication": ["did:web:obale.oberhauser.space#owner"],
+  "assertionMethod": ["did:web:obale.oberhauser.space#owner"]
+}
