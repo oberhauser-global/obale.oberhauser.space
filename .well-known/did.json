@@ -11,9 +11,9 @@
       "controller": "did:web:obale.oberhauser.space",
       "publicKeyJwk": {
         "kty": "EC",
-        "crv": "secp256k1",
-        "x": "Aj7qxL2kynxsO0183hWZJ+hNee7CXACA4lfY8dFrujU=",
-        "y": "sa2yKARQF79FrEdETSHUxGfm7UUS4bHGRkRnq3zVIRk="
+        "crv": "P-256",
+        "x": "SmfT4QGN2AIJUtxwgARSYg4lUDdKOV6v3hoQAB8LjWI=",
+        "y": "dal42lCuWl0/V2uxIt7yXfWt3sp7/Dfyiw4DuwlQD4="
       }
     }
   ],
