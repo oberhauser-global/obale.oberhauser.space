@@ -18,5 +18,6 @@
     }
   ],
   "authentication": ["did:web:obale.oberhauser.space#owner"],
-  "assertionMethod": ["did:web:obale.oberhauser.space#owner"]
+  "assertionMethod": ["did:web:obale.oberhauser.space#owner"],
+  "capabilityInvocation": ["did:web:obale.oberhauser.space#owner"]
 }
