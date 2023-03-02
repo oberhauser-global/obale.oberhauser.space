@@ -4,6 +4,7 @@
     "https://w3id.org/security/suites/jws-2020/v1"
   ],
   "id": "did:web:obale.oberhauser.space",
+  "alsoKnownAs": ["https://social.oberhauser.space/@obale"],
   "verificationMethod": [
     {
       "id": "did:web:obale.oberhauser.space#owner",
